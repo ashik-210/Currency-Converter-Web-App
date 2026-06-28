@@ -1,2 +1,21 @@
 # Currency-Converter-Web-App
-A modern and responsive currency converter that fetches real-time exchange rates using a currency API. Built with HTML, CSS, and JavaScript.
+# 💱 Currency Converter
+
+A modern and responsive Currency Converter built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+- 🌍 Real-time currency conversion
+- 🚩 Dynamic country flags
+- 📱 Responsive design
+- ⚡ Fast and lightweight
+- 🎨 Modern UI
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Currency API
+
+## 📂 Project Structure
